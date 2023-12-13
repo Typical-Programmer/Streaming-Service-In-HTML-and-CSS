@@ -1,0 +1,39 @@
+.background
+{
+    background-color: #28231D;
+}
+
+.s_nametitle
+{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: 30px;
+    margin-top: -3px;
+}
+
+.SearchBar
+{
+    width: 500px;   
+    height: 30px;
+    background-color: #28231D;
+    border-color: white;
+    border-width: 3px;
+    border-radius: 10px;
+    color: whitesmoke;
+    margin-left: 600px;
+    margin-top: -55px;
+    display: block;
+}
+
+.ProfileBtn
+{
+    width:  65px;
+    height:  65px;
+    border-radius: 40px;
+    background-color: #28231D;
+    border-width: 5px;
+    border-color: white;
+    margin-left: 1825px;
+    margin-top: -40px;
+}
